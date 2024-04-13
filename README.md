@@ -6,7 +6,7 @@ I am a dedicated frontend developer with a keen eye for creating visually appeal
 
 ![Profile views](https://komarev.com/ghpvc/?username=hafsajillani&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I am currently focused on JavaScript projects utilizing TypeScript, React, and Tailwind CSS to create dynamic and responsive web applications.
+- 🔭 I am currently working on JavaScript projects utilizing TypeScript, React, and Tailwind CSS to create dynamic and responsive web applications.
 - 🌱 I am constantly expanding my knowledge in quantum computing and programming languages to stay updated with the latest industry trends and technologies.
 - 👯 I am enthusiastic about collaborating on projects related to quantum computing, mathematics, and frontend development to contribute my expertise and learn from others.
 - 💬 Feel free to ask me about React, Tailwind CSS, and quantum-related topics! I enjoy sharing knowledge and discussing new ideas.
@@ -15,7 +15,8 @@ I am a dedicated frontend developer with a keen eye for creating visually appeal
 
 ## Connect with Me
 
-- [Instagram](https://instagram.com/hafsa.jillani)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/hafsa.jillani)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafsa-jillani-26257523b/)
 
 ## Skills and Tools
 
@@ -31,8 +32,6 @@ I am a dedicated frontend developer with a keen eye for creating visually appeal
 ### Frameworks/Libraries:
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
@@ -41,7 +40,6 @@ I am a dedicated frontend developer with a keen eye for creating visually appeal
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ### Databases:
 
