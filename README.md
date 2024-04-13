@@ -64,7 +64,6 @@ I am a dedicated frontend developer with a keen eye for creating visually appeal
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hafsajillani&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=hafsajillani&show_icons=true&locale=en" alt="Stats" />
 </div>
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hafsajillani)
