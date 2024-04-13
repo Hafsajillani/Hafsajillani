@@ -2,16 +2,16 @@
 
 ## About Me
 
-I am a dedicated frontend developer with a keen eye for creating visually appealing and user-friendly interfaces. My passion for mathematics and quantum computing drives me to explore innovative solutions and enhance my programming skills.
+I'm a frontend developer with a passion for creating beautiful and intuitive user interfaces. I also have a strong interest in mathematics and quantum computing.
 
 ![Profile views](https://komarev.com/ghpvc/?username=hafsajillani&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I am currently working on JavaScript projects utilizing TypeScript, React, and Tailwind CSS to create dynamic and responsive web applications.
-- 🌱 I am constantly expanding my knowledge in quantum computing and programming languages to stay updated with the latest industry trends and technologies.
-- 👯 I am enthusiastic about collaborating on projects related to quantum computing, mathematics, and frontend development to contribute my expertise and learn from others.
-- 💬 Feel free to ask me about React, Tailwind CSS, and quantum-related topics! I enjoy sharing knowledge and discussing new ideas.
-- 📫 You can reach me at [jillanihafsa@gmail.com](mailto:jillanihafsa@gmail.com) to discuss potential opportunities or collaborations.
-- ⚡ Fun fact: Besides coding, I have a passion for writing and often spend my free time exploring new ideas and concepts.
+- 🔭 I’m currently working on JavaScript projects with TypeScript, React, and Tailwind CSS.
+- 🌱 I’m currently learning more about quantum computing and building a strong knowledge base in programming languages.
+- 👯 I’m looking to collaborate on projects related to quantum computing, mathematics, and frontend development.
+- 💬 Ask me about React, Tailwind CSS, and quantum-related topics!
+- 📫 How to reach me: [jillanihafsa@gmail.com](mailto:jillanihafsa@gmail.com)
+- ⚡ Fun fact: I also love to write, so you might find me penning down thoughts and ideas when I'm not coding. Join me on this coding and writing adventure!
 
 ## Connect with Me
 
