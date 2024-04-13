@@ -1,137 +1,72 @@
-<!DOCTYPE html>
-<html lang="en">
+# Hafsa Jillani - Frontend Developer
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hafsa Jillani - Frontend Developer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f8f8f8;
-        }
+## About Me
 
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
+I'm a frontend developer with a passion for creating beautiful and intuitive user interfaces. I also have a strong interest in mathematics and quantum computing.
 
-        h1,
-        h2,
-        h3,
-        p {
-            margin-bottom: 10px;
-        }
+![Profile views](https://komarev.com/ghpvc/?username=hafsajillani&label=Profile%20views&color=0e75b6&style=flat)
 
-        img {
-            max-width: 100%;
-            height: auto;
-        }
+![Trophies](https://github-profile-trophy.vercel.app/?username=hafsajillani)
 
-        .badge {
-            display: inline-block;
-            padding: 4px 8px;
-            background-color: #007bff;
-            color: #fff;
-            border-radius: 4px;
-            font-size: 0.8rem;
-            margin-right: 5px;
-        }
+- 🔭 I’m currently working on JavaScript projects with TypeScript, React, and Tailwind CSS.
+- 🌱 I’m currently learning more about quantum computing and building a strong knowledge base in programming languages.
+- 👯 I’m looking to collaborate on projects related to quantum computing, mathematics, and frontend development.
+- 💬 Ask me about React, Tailwind CSS, and quantum-related topics!
+- 📫 How to reach me: [jillanihafsa@gmail.com](mailto:jillanihafsa@gmail.com)
+- ⚡ Fun fact: I also love to write, so you might find me penning down thoughts and ideas when I'm not coding. Join me on this coding and writing adventure!
 
-        .social-links a {
-            display: inline-block;
-            margin-right: 10px;
-        }
-    </style>
-</head>
+## Connect with Me
 
-<body>
-    <div class="container">
-        <h1 align="center">Hi 👋, I'm Hafsa Jillani</h1>
-        <h3 align="center">I'm a frontend developer with a passion for creating beautiful and intuitive user interfaces. I also have a strong interest in mathematics and quantum computing. Welcome to my GitHub profile! </h3>
+- [Instagram](https://instagram.com/hafsa.jillani)
 
-        <p align="left">
-            <img src="https://komarev.com/ghpvc/?username=hafsajillani&label=Profile%20views&color=0e75b6&style=flat"
-                alt="Profile views" />
-        </p>
+## Skills and Tools
 
-        <p align="left">
-            <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-                    src="https://github-profile-trophy.vercel.app/?username=hafsajillani" alt="Trophies" /></a>
-        </p>
+### Languages:
 
-        <ul>
-            <li>🔭 I’m currently working on JavaScript projects with TypeScript, React, and Tailwind CSS.</li>
-            <li>🌱 I’m currently learning more about quantum computing and building a strong knowledge base in programming languages.</li>
-            <li>👯 I’m looking to collaborate on projects related to quantum computing, mathematics, and frontend development.</li>
-            <li>💬 Ask me about React, Tailwind CSS, and quantum-related topics!</li>
-            <li>📫 How to reach me: <a href="mailto:jillanihafsa@gmail.com">jillanihafsa@gmail.com</a></li>
-            <li>⚡ Fun fact: I also love to write, so you might find me penning down thoughts and ideas when I'm not coding. Join me on this coding and writing adventure!</li>
-        </ul>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-        <h3 align="left">Connect with me:</h3>
-        <div class="social-links">
-            <a href="https://instagram.com/hafsa.jillani" target="blank"><img
-                    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-                    alt="Instagram" height="30" width="40" /></a>
-        </div>
+### Frameworks/Libraries:
 
-        <h3 align="left">Skills and Tools:</h3>
-        <p align="left">
-        <h4 align=""left">Languages:</h4>
-            <span class="badge">C++</span>
-            <span class="badge">CSS</span>
-            <span class="badge">HTML5</span>
-            <span class="badge">JavaScript</span>
-            <span class="badge">Python</span>
-            <span class="badge">TypeScript</span>
-        </p>
-        <p align="left">
-        <h4 align=""left">Frameworks/Libraries:</h4>
-            <span class="badge">React</span>
-            <span class="badge">Bootstrap</span>
-            <span class="badge">Tailwind CSS</span>
-            <span class="badge">SASS</span>
-        </p>
-        <p align="left">
-        <h4 align=""left">Backend:</h4>
-            <span class="badge">Node.js</span>
-            <span class="badge">Express.js</span>
-        </p>
-        <p align="left">
-        <h4 align=""left">Database:</h4>
-            <span class="badge">MongoDB</span>
-            <span class="badge">MySQL</span>
-        </p>
-        <p align="left">
-        <h4 align=""left">Version Control:</h4>
-            <span class="badge">Git</span>
-            <span class="badge">Github</span>
-        </p>
-        <p align="left">
-        <h4 align=""left">Other Tools:</h4>
-            <span class="badge">npm</span>
-            <span class="badge">Webpack</span>
-        </p>
-***
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
 
-        <div style="display: flex; justify-content: space-between; align-items: center;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hafsajillani&show_icons=true&locale=en&layout=compact"
-                alt="Top Languages" />
-            <img src="https://github-readme-stats.vercel.app/api?username=hafsajillani&show_icons=true&locale=en"
-                alt="Stats" />
-        </div>
+### Backend:
 
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafsajillani&" alt="Streak" />
-    </div>
-</body>
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-</html>
+### Databases:
 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Version Control:
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+### Other Tools:
+
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat&logo=babel&logoColor=black)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+
+## GitHub Stats
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hafsajillani&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hafsajillani&show_icons=true&locale=en" alt="Stats" />
+</div>
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hafsajillani)
